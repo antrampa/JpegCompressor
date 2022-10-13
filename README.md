@@ -17,5 +17,4 @@ Add all JPG photos into "img" folder.
 Run the application and get all the jpg images compressed into folder "imgcopr".
 
 
-
-Thank you
+########

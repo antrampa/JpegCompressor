@@ -16,5 +16,7 @@ Add all JPG photos into "img" folder.
 
 Run the application and get all the jpg images compressed into folder "imgcopr".
 
+You can download the jar file <a href="https://drive.google.com/file/d/11uwiJpWCGzodjJreQELm1CdL9GMIVxa9/view?usp=sharing">here</a> 
 
 ########
+
